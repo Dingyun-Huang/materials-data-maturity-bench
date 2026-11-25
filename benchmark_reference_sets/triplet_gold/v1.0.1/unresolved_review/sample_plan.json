@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "kind": "unresolved_metadata_census",
+  "reference_sha256": {
+    "annotations.jsonl": "d601b7c070618818728e95f2a864db9aebd2201335f289cae68b2b10c630e10f",
+    "pair_provenance.jsonl": "13d7ca58dc6b5a0003405cd9bca963fedb9e5303e5b3f65a25f78a23a8fedc70",
+    "manifest.jsonl": "efe63815eb2328409e8e71f7dac69ce4ace9ae7c6612df7e612c31e231090728",
+    "protocol.md": "08e2cf9417bfc73d931bacb53db254bc7f7d00c31eeea638ba3af67690114c21"
+  },
+  "triplet_sample": [],
+  "paper_sample": [],
+  "unresolved_sample": [
+    "metadata-a7c68bad7644ffd61b37",
+    "metadata-7c8a042ca86a9afbe279",
+    "metadata-f697e3adfcfeb69857dd",
+    "metadata-b4370fab81f8d981b86b",
+    "metadata-b787cb1b28d64a447cee",
+    "metadata-4301dc7fedf9ab7f530b",
+    "metadata-d7566dd3dc8dea8aacdb",
+    "metadata-1afe7843e362dd7339b2",
+    "metadata-5171c4a637015a1107cf",
+    "metadata-e59a6944959e4a3001a3",
+    "metadata-654bea45c59d6599b5a4",
+    "metadata-4effd267cd5f2940f82b",
+    "metadata-76c1efa77072226c8ac6",
+    "metadata-36b78dbe221388c3ff9a",
+    "metadata-f960af58247729e68784"
+  ],
+  "note": "One item per unresolved observation field, including unpaired observations. Separate from random-sample error estimates."
+}

@@ -1,0 +1,31 @@
+{
+  "status": "released_gold",
+  "version": "1.0.1",
+  "released_at": "2026-11-09T04:36:56.991635+00:00",
+  "papers": 100,
+  "classifications": {
+    "negative": 46,
+    "positive": 54
+  },
+  "triplets": 799,
+  "unresolved_observation_fields": 15,
+  "unresolved_fields_in_paired_observations": 12,
+  "triplets_with_metadata_masks": 41,
+  "masked_record_fields": 45,
+  "completed_triplet_audits": 100,
+  "completed_positive_paper_audits": 10,
+  "completed_unresolved_field_reviews": 15,
+  "independent_second_annotation": "not_performed",
+  "validation_policy": "sampled_human_validation_plus_owner_adjudication",
+  "input_hashes_evidence_offsets_and_observation_references": "passed",
+  "annotation_source_sha256": "6bd2d4e816f30f3aa1f3f4e10550a64effd47179f7ef1ad3933705cce4950e0a",
+  "original_audit_is_pre_correction": true,
+  "model_performance_metrics": "not_computed",
+  "parent_version": "1.0.0",
+  "correction_decision_id": "d3tc01986a-include-510nm-20261109",
+  "added_unpaired_pl_observations": 3,
+  "triplet_records_unchanged": true,
+  "parent_annotations_sha256": "dfb9e0a9cf6e92b060c2c7060f1825b3db2525b56df26db157ecced9de79b03a",
+  "protocol_sha256": "e51df4d2dffbef349581f4a2666d28a67a9f5d793a2697fd25ea588cbcd36e0b",
+  "validation_scope": "Original sampled audit retained with original hashes; the three additions were explicitly owner-adjudicated, not independently re-audited."
+}

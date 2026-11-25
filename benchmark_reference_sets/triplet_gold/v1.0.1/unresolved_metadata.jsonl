@@ -1,0 +1,15 @@
+{"doi": "10.1016/j.jiec.2018.09.040", "observation_id": "gap-01", "field": "phase", "status": "owner_accepted_unresolved", "participates_in_triplets": false}
+{"doi": "10.1016/j.jiec.2018.09.040", "observation_id": "gap-01", "field": "host_or_solvent", "status": "owner_accepted_unresolved", "participates_in_triplets": false}
+{"doi": "10.1016/j.jiec.2018.09.040", "observation_id": "gap-01", "field": "concentration_or_doping", "status": "owner_accepted_unresolved", "participates_in_triplets": false}
+{"doi": "10.1039/C9TC05855A", "observation_id": "gap-001", "field": "phase", "status": "owner_accepted_unresolved", "participates_in_triplets": true}
+{"doi": "10.1039/C9TC05855A", "observation_id": "gap-001", "field": "host_or_solvent", "status": "owner_accepted_unresolved", "participates_in_triplets": true}
+{"doi": "10.1039/C9TC05855A", "observation_id": "gap-001", "field": "concentration_or_doping", "status": "owner_accepted_unresolved", "participates_in_triplets": true}
+{"doi": "10.1039/C9TC05855A", "observation_id": "gap-002", "field": "phase", "status": "owner_accepted_unresolved", "participates_in_triplets": true}
+{"doi": "10.1039/C9TC05855A", "observation_id": "gap-002", "field": "host_or_solvent", "status": "owner_accepted_unresolved", "participates_in_triplets": true}
+{"doi": "10.1039/C9TC05855A", "observation_id": "gap-002", "field": "concentration_or_doping", "status": "owner_accepted_unresolved", "participates_in_triplets": true}
+{"doi": "10.1039/D3TC00316G", "observation_id": "gap-001", "field": "host_or_solvent", "status": "owner_accepted_unresolved", "participates_in_triplets": true}
+{"doi": "10.1039/D3TC00316G", "observation_id": "gap-002", "field": "host_or_solvent", "status": "owner_accepted_unresolved", "participates_in_triplets": true}
+{"doi": "10.1039/D3TC00316G", "observation_id": "gap-005", "field": "host_or_solvent", "status": "owner_accepted_unresolved", "participates_in_triplets": true}
+{"doi": "10.1039/D3TC00316G", "observation_id": "gap-006", "field": "host_or_solvent", "status": "owner_accepted_unresolved", "participates_in_triplets": true}
+{"doi": "10.1039/D3TC00316G", "observation_id": "gap-007", "field": "host_or_solvent", "status": "owner_accepted_unresolved", "participates_in_triplets": true}
+{"doi": "10.1039/D3TC00316G", "observation_id": "gap-008", "field": "host_or_solvent", "status": "owner_accepted_unresolved", "participates_in_triplets": true}

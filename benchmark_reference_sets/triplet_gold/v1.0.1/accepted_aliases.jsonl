@@ -1,0 +1,22 @@
+{"doi": "10.1016/j.cclet.2019.03.015", "material_id": "2CZBZL", "material_id_in_doc": "2CZBZL", "aliases": ["crst-A", "crst-B", "crst-C", "crst-D", "crst-E"]}
+{"doi": "10.1016/j.cej.2025.159245", "material_id": "RB", "material_id_in_doc": "RB", "aliases": ["Rhodamine B", "RhB"]}
+{"doi": "10.1016/j.cplett.2024.141390", "material_id": "TCTA/PO-T2T", "material_id_in_doc": "TCTA/PO-T2T", "aliases": ["TCTA:PO-T2T", "TCTA (5 nm)/UGH2 (x nm)/PO-T2T (5 nm)"]}
+{"doi": "10.1016/j.dyepig.2023.111113", "material_id": "Aphe@HA", "material_id_in_doc": "Aphe@HA", "aliases": ["9-aminophenanthrene", "9-phenanthramine"]}
+{"doi": "10.1016/j.jlumin.2020.117864", "material_id": "Se-DB-ITX", "material_id_in_doc": "Se-DB-ITX", "aliases": ["Se-DB-ITXD"]}
+{"doi": "10.1016/j.molstruc.2023.135408", "material_id": "PQLM-DMAC", "material_id_in_doc": "PQLM-DMAC", "aliases": ["PQLM-DAMC"]}
+{"doi": "10.1016/j.optmat.2022.112320", "material_id": "1", "material_id_in_doc": "1", "aliases": ["Dye 1"]}
+{"doi": "10.1016/j.optmat.2022.112320", "material_id": "2", "material_id_in_doc": "2", "aliases": ["2", "Dye 2", "dye 2"]}
+{"doi": "10.1016/j.orgel.2019.105544", "material_id": "QDs", "material_id_in_doc": "QDs", "aliases": ["CdSe/ZnS QDs"]}
+{"doi": "10.1016/S0009-2614(97)01172-X", "material_id": "fluorescein 548", "material_id_in_doc": "fluorescein 548", "aliases": ["fluorescein"]}
+{"doi": "10.1039/C6SC03793C", "material_id": "1", "material_id_in_doc": "1", "aliases": ["MFAc-PPM"]}
+{"doi": "10.1039/C6SC03793C", "material_id": "2", "material_id_in_doc": "2", "aliases": ["MXAc-PPM"]}
+{"doi": "10.1039/C6SC03793C", "material_id": "3", "material_id_in_doc": "3", "aliases": ["MFAc-PM"]}
+{"doi": "10.1039/C6SC03793C", "material_id": "4", "material_id_in_doc": "4", "aliases": ["MXAc-PM"]}
+{"doi": "10.1039/C6SC03793C", "material_id": "5", "material_id_in_doc": "5", "aliases": ["Ac-PM"]}
+{"doi": "10.1039/C9SC01821B", "material_id": "CzpPhTrz", "material_id_in_doc": "CzpPhTrz", "aliases": ["rac-CzpPhTrz", "(rac)-CzpPhTrz"]}
+{"doi": "10.1039/D0TC05562J", "observation_id": "gap-004", "accepted_value_variants": [{"value": "0.11", "unit": "eV", "evidence": {"start": 20259, "end": 20295, "quote": "owing to the small ΔES1–T2 = 0.11 eV"}}]}
+{"doi": "10.1039/D1DT03912A", "material_id": "1", "material_id_in_doc": "1", "aliases": ["[CuI(dzMe)(PPh3)]"]}
+{"doi": "10.1039/D1DT03912A", "material_id": "2", "material_id_in_doc": "2", "aliases": ["[CuI(dzPh)(PPh3)]"]}
+{"doi": "10.1039/D1DT03912A", "material_id": "3", "material_id_in_doc": "3", "aliases": ["[CuI(dzOMe)(PPh3)]"]}
+{"doi": "10.1039/D4QI02920H", "observation_id": "gap-02", "accepted_value_variants": [{"value": "0.08", "unit": "eV", "evidence": [{"start": 12485, "end": 12585, "quote": "The value of ΔE(S1 − T1) (0.078 eV) is close to the result (0.08 eV) estimated from the TRES spectra", "selector_occurrences": 1}]}]}
+{"doi": "10.1039/D4QI02920H", "material_id": "Ag14-dcbdt", "material_id_in_doc": "Ag14-dcbdt", "aliases": ["Ag14(dcbdt)6(TTPP)8"]}

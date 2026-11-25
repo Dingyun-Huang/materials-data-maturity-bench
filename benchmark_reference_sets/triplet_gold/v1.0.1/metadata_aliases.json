@@ -1,0 +1,19 @@
+{
+  "protocol_version": "0.9-draft",
+  "phase_aliases": {
+    "doped film": "film",
+    "doped thin film": "film",
+    "neat film": "film",
+    "pristine thin film": "film",
+    "solid film": "film",
+    "solid-state film": "film",
+    "thin film": "film"
+  },
+  "qualitative_concentrations_exporting_null": [
+    "dilute",
+    "diluted",
+    "high concentrations",
+    "neat",
+    "very low concentrations"
+  ]
+}

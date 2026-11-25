@@ -1,0 +1,18 @@
+{
+  "version": "1.0.1",
+  "status": "owner_authorized",
+  "authority": "Explicit owner instruction: It should be included.",
+  "validation_policy": "sampled_human_validation_plus_owner_adjudication",
+  "required_triplet_audits": 100,
+  "required_positive_paper_audits": 10,
+  "required_unresolved_field_dispositions": 15,
+  "independent_second_annotation": "not_performed",
+  "unresolved_metadata_policy": "retain_state_export_null_mask_from_metadata_scoring",
+  "core_fields_must_be_evaluable": true,
+  "naming_dispositions": {
+    "10.1016/j.optmat.2022.112320": "Retain compound identifier 2 and source-backed Dye 2/dye 2 aliases.",
+    "10.1039/D2TC01729F": "Retain parent identifier 3Br for compound-level pairing; preserve conformer labels, including 3Br-B, per observation in provenance."
+  },
+  "parent_version": "1.0.0",
+  "correction_decision_id": "d3tc01986a-include-510nm-20261109"
+}
